@@ -1,0 +1,6 @@
+To train new model delete these files:
+- checkpoint
+- snapshot-38.data-00000-of-00001
+- snapshot-38.index
+- snapshot-38.meta
+*Noted that training will take at least 14 hours
