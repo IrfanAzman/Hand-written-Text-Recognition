@@ -19,4 +19,4 @@
 - To develop a tool which can scan the inputted handwritten images and printed out extracted text as the output.
 <br><br><br><br><br><br>
 
-Next: [Project Planning](PMP/B-Project_Planning.md)
+Next: [Project Planning](B-Project_Planning.md)
