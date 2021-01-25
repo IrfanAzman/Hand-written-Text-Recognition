@@ -4,4 +4,4 @@ By Lumineux Sdn. Bhd.
 This is a project which can interpret the user's handwritten characters or words. This project involve Artificial Intelligence(AI) technique which is Neural Network(NN).
 
 ## Project Management Plan
-**Project Definition**: (docs/PMP/A-Project_Definition.md)
+**Project Definition**: [Contribution guidelines for this project](PMP/A-Project_Definition.md)
