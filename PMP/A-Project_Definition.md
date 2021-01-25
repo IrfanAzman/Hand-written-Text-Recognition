@@ -1,7 +1,9 @@
 # PROJECT OVERVIEW
 ## A. DEFINING THE PROJECT
 ### Project Summary
+Hand-written Text Recognition (HTR) is a special type of OCR which deals with the ability of computer to recognize the letters written by human. HTR has become a vital part of robotics vision for its application in enormous sectors of life like smart education, autonomous driving, purchasing process, digitizing paper based process and many other areas.It has a lot of prominent applications such as National ID number recognition, post office automation, automatic plate recognition system for vehicles, online banking, parking lot management system, and many more.
 
+In this project, we will focus on the hand-written text recognition module.
 
 ### Customer: SAMSUNG 
 
