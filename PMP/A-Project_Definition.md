@@ -18,4 +18,8 @@
 - To construct a tool that takes an image from it as an input and extracts characters (alphabets, digits, symbols).
 - To develop a tool which can scan the inputted handwritten images and printed out extracted text as the output.
 
+
+
+
+
 Next: [Project Planning](PMP/B-Project_Planning.md)
