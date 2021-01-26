@@ -13,7 +13,7 @@ Follow these instructions to get the IAM dataset:
   <li> Put words.txt into the gt directory </li>
   <li> Put the content (directories a01, a02, ...) of words.tgz into the img directory </li>
 </ul>
-Or you can download the data file from this <a href="https://drive.google.com/drive/folders/1b89m6bvPMrjzUj5faw2RKAFVWHx3MO9g?usp=sharing">link</a>
+Or you can download the data file from this <a href="https://drive.google.com/drive/folders/1AtWisxpjfZPaKAdphJ93dk550fTwwdub?usp=sharing">link</a>
 
 
 ## Project Management Plan
