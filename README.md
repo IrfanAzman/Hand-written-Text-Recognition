@@ -20,8 +20,8 @@ Download the model trained on the IAM dataset. Put the contents of the downloade
 <pre><code>> python main.py
 Validation character error rate of saved model: 11.118344571029994%
 Init with stored values from ../model/snapshot-76
-Recognized: "Hello"
-Probability: 0.8462573289871216
+Recognized: "house"
+Probability: 0.96177125
 </code></pre>
 
 
