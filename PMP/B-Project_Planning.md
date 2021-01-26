@@ -56,3 +56,7 @@ Project management WBS is shown in the Gantt Chart below:
 |       | git status                  | git status                | git status               |
 |            | git diff                    | git diff                  | git diff                 |
 |            |git diff                    | git diff                  | git diff                 |
+
+<br><br><br><br><br><br>
+
+Next: [Project Implementation](C-Project_Implementation.md)
