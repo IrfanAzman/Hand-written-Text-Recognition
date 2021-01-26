@@ -5,9 +5,9 @@ The project management life cycle is represented and documented in the form of G
 
 The WBS is the Work Breakdown Structure. It is a hierarchical representation of the elements (tasks) that comprise a project. WBS of our project is shown below:
 <br><br>
-
 ![](assets/WBS.png)
 <br><br>
 Project management WBS is shown in the Gantt Chart below:
+<br><br>
 ![](assets/WBS_GC_old.PNG)
 
