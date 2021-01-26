@@ -1,15 +1,13 @@
 # PROJECT OVERVIEW
 ## C. IMPLEMENTING THE PROJECT
 ### Deliverables:
+**Hardware Requirement:**
 ...
 
 **Software Requirement:**
 ...
 
 **Intelligent System Architecture:**
-...
-
-**Outcomes of the system**
 ...
 
 ### Tasks and Estimated Costs
