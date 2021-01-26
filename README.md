@@ -18,7 +18,6 @@ Or you can download the data file from this <a href="https://drive.google.com/dr
 ## Run model
 Download the model trained on the IAM dataset. Put the contents of the downloaded file model.zip into the model directory of the repository. Afterwards, go to the src directory and run python main.py. The input image and the expected output is shown below.
 <pre><code>> python main.py
-Validation character error rate of saved model: 11.118344571029994%
 Init with stored values from ../model/snapshot-76
 Recognized: "house"
 Probability: 0.96177125
