@@ -50,6 +50,7 @@ Project management WBS is shown in the Gantt Chart below:
 | Project Sponsor | git diff                    | git diff                  |
 
 <br>
+### Project Planning Summary:
 
 | Modules/Components | Budget | Schedule | Responsibility |
 |     :---:       |   :---:   |  :---:  |  :---:   |
