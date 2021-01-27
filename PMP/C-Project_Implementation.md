@@ -1,5 +1,5 @@
 # PROJECT OVERVIEW
-## C. IMPLEMENTING THE PROJECT
+## C. IMPLEMENTING THE PROJECT PLAN
 ### Deliverables:
 - A system that can detect the hand-written text and produce extracted text as the output.
 
