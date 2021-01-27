@@ -4,7 +4,7 @@
 - A system that can detect the hand-written text and produce extracted text as the output.
 
 ### Tasks and Estimated Costs
-|     Task              |        Estimated Costs     |      Notes       |
+|     Task              |        Estimated Costs (RM)    |      Notes       |
 |     :---:              |           :---:             |           :---:           |
 | Software      | 5,000.00  |               | 
 | Scanner   | 6,000.00 |                 |
