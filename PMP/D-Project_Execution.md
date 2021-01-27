@@ -1,6 +1,7 @@
 # PROJECT OVERVIEW
 ## D.  EXECUTING THE PROJECT
 **Project Design and coding**
+
 Flowchart Design:
 
 **Description of the project coding and implementation**
