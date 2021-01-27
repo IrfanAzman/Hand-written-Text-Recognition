@@ -31,7 +31,7 @@
 | Rentals | 10,000.00  |  Rentals used such as hardware rent and building rent.  |
 | Software | 1,000.00  | Software used to develop the project.    |
 | Indirect Costs | 128,000.00 |                  |
-|  TOTAL      | 1,180600.00   |      |          
+|  TOTAL      | 1,180,600.00   |      |          
 
 ### Milestone Chart
 |     Milestone              |       Scheduled Completion     |      Actual Completion       |
