@@ -14,9 +14,15 @@ Project management WBS is shown in the Gantt Chart below:
 ### Risk Identification Chart (Quality, Cost, Time)
 | Control Element | What is likely to go wrong? | How and when will I know? | What will I do about it? |
 |     :---:       |           :---:             |           :---:           |           :---:          |
-| Quality         | git status                  | git status                | git status               |
-| Cost            | git diff                    | git diff                  | git diff                 |
-| Time            |git diff                    | git diff                  | git diff                 |
+| Quality         | The system unable to detect messy hand-written text     | How: The result output is wrong.
+
+When: During testing phase. | Put more effort in collecting data and increase the data set every day until a satisfactory result is determined.   |
+| Cost            | Project runs over budget                    | How: Not enough costs to continue. the project.
+
+When: During project implementation phase. | After coming up with an agreed budget with the client, we must manage the expenditure carefully, Expenditure must be controlled to ensure that the project is completed without overbudget.                 |
+| Time            |    Project do not follow the milestone.  | How: The progress of project stuck in certain task. 
+
+When: During project implementation phase. |  Assign other team member to help with that certain task.      |
 
 ### Responsibility Assignment Matrices (RAM):
 ![](assets/RAM.PNG)
