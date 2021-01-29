@@ -2,8 +2,10 @@
 ## D.  EXECUTING THE PROJECT
 
 **Project Design and coding**
-* Flowchart Design: [INSERT your Design - Diagrams]  
-* Coding     
+<h4>1. Flowchart diagram </h4>   
+<img src="https://github.com/supcicak0/Hand-written-Text-Recognition/blob/wiki-stuff/flowchart.jpg" width=90% alt="Coding preview">    
+
+<h4>2. Coding </h4>     
 <!--- ![Coding Preview](https://raw.githubusercontent.com/supcicak0/Hand-written-Text-Recognition/wiki-stuff/Coding%20Preview.PNG)  --->
 <img src="https://raw.githubusercontent.com/supcicak0/Hand-written-Text-Recognition/wiki-stuff/Coding%20Preview.PNG" width=90% alt="Coding preview">    
  
